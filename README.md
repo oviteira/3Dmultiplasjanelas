@@ -14,7 +14,7 @@ Este projeto demonstra uma abordagem única para criar e gerenciar uma cena 3D e
 Clone o repositório e abra o arquivo `index.html` em seu navegador para começar a explorar a cena 3D.
 
 ```
-git clone https://github.com/bgstaal/3Dmultiplasjanelas
+git clone https://github.com/oviteira/3Dmultiplasjanelas
 ```
 
 ## Uso
